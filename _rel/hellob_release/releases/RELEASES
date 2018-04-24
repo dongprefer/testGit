@@ -1,0 +1,11 @@
+[{release,"hellob_release","1","6.4",
+          [{kernel,"3.2","./lib/kernel-3.2"},
+           {stdlib,"2.4","./lib/stdlib-2.4"},
+           {syntax_tools,"1.6.18","./lib/syntax_tools-1.6.18"},
+           {compiler,"5.0.4","./lib/compiler-5.0.4"},
+           {goldrush,"0.1.9","./lib/goldrush-0.1.9"},
+           {lager,"3.5.2","./lib/lager-3.5.2"},
+           {hellob,"0.1.0","./lib/hellob-0.1.0"},
+           {sasl,"2.4.1","./lib/sasl-2.4.1"},
+           {runtime_tools,"1.8.16","./lib/runtime_tools-1.8.16"}],
+          permanent}].

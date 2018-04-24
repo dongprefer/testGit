@@ -1,0 +1,11 @@
+{release,{"hellob_release","1"},
+         {erts,"6.4"},
+         [{kernel,"3.2"},
+          {stdlib,"2.4"},
+          {syntax_tools,"1.6.18"},
+          {compiler,"5.0.4"},
+          {goldrush,"0.1.9"},
+          {lager,"3.5.2"},
+          {hellob,"0.1.0"},
+          {sasl,"2.4.1"},
+          {runtime_tools,"1.8.16"}]}. 
